@@ -1,0 +1,23 @@
+﻿"name": "currency_converter",
+ "version": "1.0.0",
+ "description": "currency converter",
+ "main": "php.php",
+ "scripts": {
+   "serve": "FREEcurrency-converter",
+   "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "repository": {
+   "type": "git",
+   "url": "git+https://github.com/malik2164/currency-converter.git"
+ },
+ "author": "malik2164",
+ "license": "ISC",
+ "bugs": {
+   "url": "https://github.com/malik2164/currency-converter/issues"
+ },
+ "homepage": "https://github.com/malik2164/currency-converter #readme",
+ "dependencies": {
+   "currency-converter": "^0.1.12",
+   "serve": "^9.1.0"
+ }
+}
